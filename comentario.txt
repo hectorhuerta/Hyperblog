@@ -3,4 +3,5 @@ Como siempre!. Probando y siguiendo los cursos de
 Platzi, mi plataforma de educación en línea favorita.
 Seguiendo el curso de git y github
 
-Vemos que funciona muy bien con el seguimiento a archivos de texto.
+Vemos que funciona muy bien con el seguimiento a archivos de texto y ahora
+continuaremos con las sesiones de clase.
