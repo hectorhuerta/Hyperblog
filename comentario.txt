@@ -1,3 +1,4 @@
 Este es un ejemplo de archivo de texto
-Como siempre, probando y siguiendo los cursos de
+Como siempre!, probando y siguiendo los cursos de
 Platzi, mi plataforma de educación en línea favorita.
+Seguiendo el curso de git y github
