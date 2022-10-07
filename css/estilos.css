@@ -8,3 +8,13 @@ h1 {
     color:blueviolet;
     align-content: center;
 }
+
+footer {
+    background-color: darkcyan;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    align-items: flex-start;
+    justify-content: center;
+    align-content: center;
+}
